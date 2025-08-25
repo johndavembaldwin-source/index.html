@@ -1,0 +1,2 @@
+# index.html
+Crypto_dashboard_declare_html
